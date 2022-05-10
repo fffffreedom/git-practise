@@ -1,2 +1,1 @@
-# git-practise
-git practise project
+https://git-scm.com/docs
